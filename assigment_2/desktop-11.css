@@ -1,0 +1,253 @@
+.feane3,
+.home2 {
+  position: absolute;
+  font-family: var(--font-inika);
+}
+.feane3 {
+  top: 287px;
+  left: 279px;
+  font-size: var(--font-size-381xl);
+  color: var(--color-whitesmoke);
+}
+.home2 {
+  top: 406px;
+  left: 2374px;
+  color: var(--color-snow-200);
+  display: inline-block;
+  width: 1432px;
+  height: 349px;
+}
+.about2 {
+  left: 5254px;
+  color: var(--color-gold);
+}
+.about2,
+.bookable2,
+.menu2 {
+  position: absolute;
+  top: 417px;
+  font-family: var(--font-inika);
+}
+.bookable2 {
+  left: 6962px;
+  color: var(--color-snow-200);
+}
+.menu2 {
+  left: 3871px;
+  color: #fffdf9;
+}
+.customer-icon1,
+.search-icon1,
+.shopping-cart-icon15 {
+  position: absolute;
+  top: 308px;
+  left: 8916px;
+  width: 700px;
+  height: 500px;
+  object-fit: cover;
+}
+.search-icon1,
+.shopping-cart-icon15 {
+  left: 10018px;
+}
+.search-icon1 {
+  top: 338px;
+  left: 11064px;
+}
+.desktop-1-child4,
+.desktop-1-child5 {
+  position: absolute;
+  top: 362px;
+  left: 11957px;
+  border-radius: var(--br-281xl);
+  background-color: var(--color-gold);
+  width: 1500px;
+  height: 500px;
+}
+.order-online2 {
+  position: absolute;
+  top: 477px;
+  left: 12166px;
+  font-size: var(--font-size-181xl);
+  color: var(--color-snow-300);
+}
+.we-are-feane {
+  position: absolute;
+  top: 4016px;
+  left: 7738px;
+}
+.anything-embarrassing-hidden,
+.going-to-use,
+.randomised-words-which,
+.the-majority-have,
+.there-are-many {
+  margin: 0;
+}
+.there-are-many-container {
+  position: absolute;
+  top: 4379px;
+  left: 7713px;
+  font-size: var(--font-size-181xl);
+}
+.desktop-1-child6 {
+  position: absolute;
+  top: 5963px;
+  left: 8460px;
+  border-radius: var(--br-381xl);
+  background-color: var(--color-gold);
+  width: 2604px;
+  height: 796px;
+}
+.read-more {
+  position: absolute;
+  top: 6119px;
+  left: 8740px;
+  font-size: var(--font-size-381xl);
+  color: var(--color-snow-300);
+}
+.opening-hours1 {
+  position: absolute;
+  top: 11007px;
+  left: 11480px;
+}
+.am-1000-pm1,
+.everyday1 {
+  position: absolute;
+  top: 11525px;
+  left: 11994px;
+  font-size: var(--font-size-231xl);
+}
+.am-1000-pm1 {
+  top: 11984px;
+  left: 11480px;
+}
+.feane4 {
+  position: absolute;
+  top: 10935px;
+  left: 7377px;
+}
+.necessary-making-this1,
+.on-the-internet1 {
+  margin: 0;
+}
+.latin-words-combined1 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.necessary-making-this-container1 {
+  position: absolute;
+  top: 11435px;
+  left: 5083px;
+  font-size: var(--font-size-231xl);
+}
+.facebook-circled-icon1,
+.instagram-icon1,
+.linkedin-icon1,
+.pinterest-icon1,
+.twitter-icon1 {
+  position: absolute;
+  top: 12554px;
+  left: 5836px;
+  width: 700px;
+  height: 500px;
+  object-fit: cover;
+}
+.instagram-icon1,
+.linkedin-icon1,
+.pinterest-icon1,
+.twitter-icon1 {
+  left: 7236px;
+}
+.instagram-icon1,
+.pinterest-icon1,
+.twitter-icon1 {
+  left: 6536px;
+}
+.instagram-icon1,
+.pinterest-icon1 {
+  left: 7806px;
+}
+.pinterest-icon1 {
+  top: 12543px;
+  left: 8418px;
+  width: 708.1px;
+  height: 511.4px;
+  object-fit: contain;
+}
+.contact-us1,
+.location1 {
+  position: absolute;
+  top: 10753px;
+  left: 992px;
+}
+.location1 {
+  top: 11226px;
+  left: 1204px;
+  font-size: var(--font-size-231xl);
+}
+.phone-icon1 {
+  position: absolute;
+  top: 11590px;
+  left: 274px;
+  width: 500px;
+  height: 300px;
+  object-fit: cover;
+}
+.demogmailcom1,
+.div10,
+.div11 {
+  position: absolute;
+  top: 11622px;
+  left: 1275px;
+  font-size: var(--font-size-231xl);
+}
+.demogmailcom1,
+.div11 {
+  left: 1713px;
+}
+.demogmailcom1 {
+  top: 12192px;
+  left: 974px;
+}
+.gmail-logo-icon3 {
+  position: absolute;
+  top: 12195px;
+  left: 474px;
+  width: 500px;
+  height: 300px;
+  object-fit: cover;
+}
+.call2 {
+  position: absolute;
+  top: 11622px;
+  left: 753px;
+  font-size: var(--font-size-231xl);
+  opacity: 0.25;
+}
+.location-icon1,
+.whatsapp-image-2024-02-22-at-16 {
+  position: absolute;
+  top: 11219px;
+  left: 695px;
+  width: 500px;
+  height: 300px;
+  object-fit: cover;
+}
+.whatsapp-image-2024-02-22-at-16 {
+  top: 1821px;
+  left: 474px;
+  width: 5758px;
+  height: 7865px;
+}
+.desktop-13 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-400);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 13750px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-281xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

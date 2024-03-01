@@ -1,0 +1,9 @@
+.search {
+  width: 100%;
+  position: relative;
+  height: 500px;
+  background-image: url(./public/search@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

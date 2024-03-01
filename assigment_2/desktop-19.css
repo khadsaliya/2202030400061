@@ -1,0 +1,117 @@
+.french-fries-fast-food-menu-sy-icon4 {
+  position: absolute;
+  top: 652px;
+  left: 704px;
+  width: 3476px;
+  height: 3746px;
+  object-fit: cover;
+}
+.set-a-password {
+  position: absolute;
+  top: 4812px;
+  left: 612px;
+  font-size: 1000px;
+}
+.your-previous-password {
+  position: absolute;
+  top: 6191px;
+  left: 555px;
+}
+.resetedplease-set1 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.resetedplease-set {
+  position: absolute;
+  top: 6242px;
+  left: 9895px;
+}
+.a-new,
+.password-for-your {
+  position: absolute;
+  top: 7202px;
+  left: 2766px;
+}
+.a-new {
+  left: 704px;
+}
+.desktop-19-child {
+  position: absolute;
+  top: 9426px;
+  left: 555px;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-gainsboro);
+  width: 11466px;
+  height: 1408px;
+}
+.enter-password2 {
+  position: absolute;
+  top: 9739px;
+  left: 897px;
+  color: var(--color-gray-200);
+}
+.desktop-19-item {
+  position: absolute;
+  top: 12108px;
+  left: 555px;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-gainsboro);
+  width: 11466px;
+  height: 1408px;
+}
+.enter-password3 {
+  position: absolute;
+  top: 12474px;
+  left: 896px;
+  color: var(--color-gray-200);
+}
+.create-password,
+.re-enter-password {
+  position: absolute;
+  top: 11263px;
+  left: 555px;
+}
+.create-password {
+  top: 8613px;
+  left: 638px;
+}
+.eye-icon1,
+.eye-icon2 {
+  position: absolute;
+  top: 9561px;
+  left: 10624px;
+  width: 970.1px;
+  height: 1137.5px;
+  object-fit: contain;
+}
+.eye-icon2 {
+  top: 12243px;
+  left: 10633px;
+}
+.desktop-19-inner {
+  position: absolute;
+  top: 14603px;
+  left: 555px;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-mediumblue);
+  width: 11466px;
+  height: 1408px;
+}
+.set-password {
+  position: absolute;
+  top: 14790px;
+  left: 3583px;
+  font-size: var(--font-size-681xl);
+}
+.desktop-19 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 16663px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-581xl);
+  color: var(--color-white);
+  font-family: var(--font-inika);
+}

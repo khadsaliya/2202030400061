@@ -1,0 +1,11 @@
+.about {
+  width: 1132px;
+  position: relative;
+  font-size: var(--font-size-281xl);
+  font-family: var(--font-inika);
+  color: var(--color-snow-100);
+  text-align: left;
+  display: inline-block;
+  height: 481px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}

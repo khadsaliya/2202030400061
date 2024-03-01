@@ -1,0 +1,117 @@
+.back-to-login1 {
+  position: absolute;
+  top: 5148px;
+  left: 1402px;
+  display: inline-block;
+  width: 2759px;
+}
+.back-icon5 {
+  position: absolute;
+  top: 5805px;
+  left: 210px;
+  width: 1192px;
+  height: 793px;
+  object-fit: cover;
+}
+.french-fries-fast-food-menu-sy-icon3 {
+  position: absolute;
+  top: 443px;
+  left: 806px;
+  width: 3476px;
+  height: 3746px;
+  object-fit: cover;
+}
+.verify-code {
+  position: absolute;
+  top: 7364px;
+  left: 1063px;
+  font-size: var(--font-size-781xl);
+}
+.an-outhentication-code,
+.sent-to-your {
+  position: absolute;
+  top: 9270px;
+  left: 1169px;
+  font-size: var(--font-size-481xl);
+}
+.sent-to-your {
+  left: 8779px;
+}
+.desktop-18-child {
+  position: absolute;
+  top: 11481px;
+  left: 1169px;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-gainsboro);
+  width: 10269px;
+  height: 1853px;
+}
+.enetr-your-code,
+.enter-code {
+  position: absolute;
+  top: 10593px;
+  left: 1380px;
+  font-size: var(--font-size-681xl);
+}
+.enetr-your-code {
+  top: 12017px;
+  left: 1924px;
+  font-size: var(--font-size-581xl);
+  color: var(--color-dimgray);
+}
+.eye-icon {
+  position: absolute;
+  top: 8679px;
+  left: 6784px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.didnt-receive-a {
+  position: absolute;
+  top: 13816px;
+  left: 1968px;
+}
+.span {
+  white-space: pre-wrap;
+}
+.resned1 {
+  color: #f82828;
+}
+.resned {
+  position: absolute;
+  top: 13916px;
+  left: 5849px;
+  font-size: var(--font-size-281xl);
+  display: inline-block;
+  width: 1931px;
+  height: 507px;
+  color: var(--color-snow-300);
+}
+.desktop-18-item {
+  position: absolute;
+  top: 14551px;
+  left: 1169px;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-mediumblue);
+  width: 10269px;
+  height: 1853px;
+}
+.verify {
+  position: absolute;
+  top: 14905px;
+  left: 4304px;
+  font-size: var(--font-size-781xl);
+}
+.desktop-18 {
+  width: 100%;
+  position: relative;
+  background-color: #0e0c0c;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 17417px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-381xl);
+  color: var(--color-white);
+  font-family: var(--font-inika);
+}

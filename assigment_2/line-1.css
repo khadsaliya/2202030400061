@@ -1,0 +1,10 @@
+.line-div {
+  width: 100%;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 1px;
+  transform: rotate(-0.19deg);
+  transform-origin: 0 0;
+  display: none;
+}

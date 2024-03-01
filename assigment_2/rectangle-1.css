@@ -1,0 +1,9 @@
+.rectangle-div2 {
+  width: 100%;
+  position: relative;
+  height: 7775px;
+  background-image: url(./public/rectangle-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

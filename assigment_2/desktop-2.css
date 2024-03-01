@@ -1,0 +1,742 @@
+.desktop-2-child {
+  position: absolute;
+  top: 29px;
+  left: 98px;
+  width: 2896px;
+  height: 1185px;
+}
+.div,
+.tasty-thursdays {
+  position: absolute;
+  left: 1056px;
+}
+.div {
+  top: 544px;
+  color: var(--color-gray-100);
+}
+.tasty-thursdays {
+  top: 369px;
+  font-size: var(--font-size-77xl);
+  color: #fff7f7;
+}
+.desktop-2-item {
+  position: absolute;
+  top: 239px;
+  left: 143px;
+  border-radius: 50%;
+  width: 729px;
+  height: 611px;
+  object-fit: cover;
+}
+.off {
+  position: absolute;
+  top: 583px;
+  left: 1318px;
+  font-size: var(--font-size-77xl);
+  color: #fcf9f9;
+}
+.desktop-2-inner {
+  position: absolute;
+  top: 699px;
+  left: 936px;
+  border-radius: var(--br-101xl);
+  background-color: var(--color-gold);
+  width: 892px;
+  height: 236px;
+}
+.oreder-now1 {
+  position: absolute;
+  top: 759px;
+  left: 998px;
+  font-size: var(--font-size-77xl);
+  color: var(--color-snow-400);
+}
+.shopping-cart-icon1 {
+  position: absolute;
+  top: 755px;
+  left: 1610px;
+  width: 100px;
+  height: 120px;
+  object-fit: cover;
+}
+.burger,
+.our-menu {
+  position: absolute;
+  top: 1471px;
+  left: 2819px;
+  color: var(--color-black);
+}
+.burger {
+  top: 1747px;
+  left: 2294px;
+  display: inline-block;
+  width: 404px;
+  height: 164px;
+}
+.pizza1 {
+  margin: 0;
+}
+.pizza {
+  position: absolute;
+  top: 1738px;
+  left: 3333px;
+  color: var(--color-black);
+}
+.pasta1 {
+  margin: 0;
+}
+.pasta {
+  position: absolute;
+  top: 1747px;
+  left: 4156px;
+  color: var(--color-black);
+}
+.fries1 {
+  margin: 0;
+}
+.fries {
+  position: absolute;
+  top: 1778px;
+  left: 5130px;
+  color: var(--color-black);
+}
+.desktop-2-child1 {
+  position: absolute;
+  top: 1712px;
+  left: 1350px;
+  border-radius: 180px;
+  background-color: var(--color-black);
+  width: 422px;
+  height: 234px;
+}
+.all {
+  position: absolute;
+  top: 1747px;
+  left: 1513px;
+  display: inline-block;
+  width: 233px;
+  height: 164px;
+}
+.whatsapp-image-2024-02-22-at-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 0 0 var(--br-281xl);
+  width: 2426px;
+  height: 1780px;
+  object-fit: cover;
+}
+.delicious-burger1 {
+  margin: 0;
+}
+.delicious-burger {
+  position: absolute;
+  top: 2066px;
+  left: 67px;
+  display: inline-block;
+  width: 986px;
+  height: 154px;
+}
+.cupiditate-quo-quisquam,
+.veniam-debitis-quaerat,
+.voluptatem-repellendus-sed {
+  margin: 0;
+}
+.m,
+.veniam-debitis-quaerat-container {
+  position: absolute;
+  top: 2290px;
+  left: 67px;
+  font-size: var(--font-size-77xl);
+}
+.m {
+  top: 2406px;
+  left: 1786px;
+}
+.desktop-5-child,
+.div1 {
+  position: absolute;
+  top: 2771px;
+  left: 137px;
+}
+.desktop-5-child {
+  top: 2638px;
+  left: 923px;
+  border-radius: var(--br-231xl);
+  width: 904.5px;
+  height: 405px;
+}
+.shopping-cart-icon2,
+.shopping-cart-icon3,
+.shopping-cart-icon4,
+.shopping-cart-icon5,
+.shopping-cart-icon6 {
+  position: absolute;
+  top: 2741px;
+  left: 1434px;
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+.desktop-5 {
+  position: absolute;
+  top: 2414px;
+  left: 2337px;
+  background-color: var(--color-black);
+  width: 2426px;
+  height: 3348px;
+  overflow: hidden;
+}
+.whatsapp-image-2024-02-22-at-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 0 0 var(--br-281xl);
+  width: 1931px;
+  height: 1758px;
+  object-fit: cover;
+}
+.delicious-pizza {
+  position: absolute;
+  top: 2089px;
+  left: 46px;
+}
+.cupiditate-quo-quisquam1,
+.veniam-debitis-quaerat1,
+.voluptatem-repellendus-sed1 {
+  margin: 0;
+}
+.veniam-debitis-quaerat-container1 {
+  position: absolute;
+  top: 2261px;
+  left: 46px;
+  font-size: var(--font-size-77xl);
+}
+.div2,
+.shopping-cart2 {
+  position: absolute;
+  top: 2758px;
+  left: 46px;
+}
+.shopping-cart2 {
+  left: 1158px;
+  width: 300px;
+  height: 200px;
+}
+.desktop-8-child,
+.desktop-8-item {
+  position: absolute;
+  top: 2655px;
+  left: 1068px;
+  border-radius: var(--br-231xl);
+  background-color: var(--color-gold);
+  width: 480px;
+  height: 405px;
+}
+.shopping-cart-icon7,
+.shopping-cart-icon8 {
+  position: absolute;
+  top: 2758px;
+  left: 1158px;
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+.desktop-8 {
+  position: absolute;
+  top: 2456px;
+  left: 170px;
+  background-color: var(--color-black);
+  width: 1931px;
+  height: 3288px;
+  overflow: hidden;
+}
+.desktop-6-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 0 0 var(--br-281xl);
+  width: 2032px;
+  height: 1279px;
+  object-fit: cover;
+}
+.delicious-pasta {
+  position: absolute;
+  top: 1396px;
+  left: 104px;
+  font-size: var(--font-size-109xl);
+}
+.cupiditate-quo-quisquam2,
+.veniam-debitis-quaerat2 {
+  position: absolute;
+  top: 1668px;
+  left: 104px;
+}
+.cupiditate-quo-quisquam2 {
+  top: 1784px;
+}
+.div3,
+.voluptatem-repellendus-sed2 {
+  position: absolute;
+  top: 1900px;
+  left: 104px;
+}
+.div3 {
+  top: 2201px;
+  left: 179px;
+  font-size: var(--font-size-109xl);
+}
+.desktop-6-inner,
+.desktop-6-item {
+  position: absolute;
+  top: 2076px;
+  left: 1176px;
+  border-radius: var(--br-231xl);
+  background-color: var(--color-gold);
+  width: 480px;
+  height: 405px;
+}
+.shopping-cart-icon9 {
+  position: absolute;
+  top: 2179px;
+  left: 1266px;
+  width: 300px;
+  height: 177px;
+  object-fit: cover;
+}
+.desktop-6 {
+  position: absolute;
+  top: 6289px;
+  left: 110px;
+  background-color: var(--color-black);
+  width: 2032px;
+  height: 2947px;
+  overflow: hidden;
+  font-size: var(--font-size-77xl);
+}
+.whatsapp-image-2024-02-22-at-12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 0 0 var(--br-281xl);
+  width: 2340px;
+  height: 1364px;
+  object-fit: cover;
+}
+.french-fries {
+  position: absolute;
+  top: 1474px;
+  left: 53px;
+  font-size: var(--font-size-109xl);
+}
+.cupiditate-quo-quisquam3,
+.veniam-debitis-quaerat3 {
+  position: absolute;
+  top: 1669px;
+  left: 53px;
+}
+.cupiditate-quo-quisquam3 {
+  top: 1825px;
+}
+.div4,
+.voluptatem-repellendus-sed3 {
+  position: absolute;
+  top: 1981px;
+  left: 53px;
+}
+.div4 {
+  top: 2207px;
+  font-size: var(--font-size-109xl);
+}
+.desktop-9-child {
+  position: absolute;
+  top: 2128px;
+  left: 1208px;
+  border-radius: var(--br-231xl);
+  width: 480px;
+  height: 405px;
+}
+.shopping-cart-icon10 {
+  position: absolute;
+  top: 2242px;
+  left: 1298px;
+  width: 300px;
+  height: 177px;
+  object-fit: cover;
+}
+.desktop-9 {
+  position: absolute;
+  top: 6289px;
+  left: 2294px;
+  background-color: var(--color-black);
+  width: 2340px;
+  height: 2947px;
+  overflow: hidden;
+  font-size: var(--font-size-77xl);
+}
+.cupiditate-quo-quisquam4,
+.veniam-debitis-quaerat4 {
+  position: absolute;
+  top: 1813px;
+  left: 105px;
+}
+.cupiditate-quo-quisquam4 {
+  top: 1929px;
+}
+.div5,
+.voluptatem-repellendus-sed4 {
+  position: absolute;
+  top: 2048px;
+  left: 105px;
+}
+.div5 {
+  top: 2382px;
+  left: 194px;
+  font-size: var(--font-size-109xl);
+}
+.desktop-10-child {
+  position: absolute;
+  top: 2283px;
+  left: 1260px;
+  border-radius: var(--br-231xl);
+  background-color: var(--color-gold);
+  width: 480px;
+  height: 405px;
+}
+.shopping-cart-icon11 {
+  position: absolute;
+  top: 2399px;
+  left: 1350px;
+  width: 300px;
+  height: 177px;
+  object-fit: cover;
+}
+.desktop-10,
+.whatsapp-image-2024-02-22-at-13 {
+  position: absolute;
+  top: 6018px;
+  left: 5068px;
+  width: 1821px;
+}
+.desktop-10 {
+  background-color: var(--color-black);
+  height: 3220px;
+  overflow: hidden;
+  font-size: var(--font-size-77xl);
+}
+.whatsapp-image-2024-02-22-at-13 {
+  border-radius: 0 0 0 var(--br-281xl);
+  height: 1550px;
+  object-fit: cover;
+}
+.desktop-2-child2 {
+  position: absolute;
+  top: 9966px;
+  left: 2708px;
+  border-radius: var(--br-231xl);
+  background-color: var(--color-gold);
+  width: 1317px;
+  height: 436px;
+}
+.view-more {
+  position: absolute;
+  top: 10069px;
+  left: 3031px;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 747px;
+  height: 229px;
+}
+.contact-us {
+  position: absolute;
+  top: 660px;
+  left: 323px;
+  font-size: var(--font-size-109xl);
+}
+.location,
+.phone-icon {
+  position: absolute;
+  top: 914px;
+  left: 535px;
+}
+.phone-icon {
+  top: 1123px;
+  left: 153px;
+  width: 340px;
+  height: 157px;
+  object-fit: cover;
+}
+.call {
+  position: absolute;
+  top: 1144px;
+  left: 458px;
+  display: none;
+}
+.demogmailcom,
+.div6,
+.div7 {
+  position: absolute;
+  top: 1144px;
+  left: 612px;
+}
+.demogmailcom,
+.div7 {
+  left: 841px;
+}
+.demogmailcom {
+  top: 1382px;
+  left: 436px;
+}
+.gmail-logo-icon,
+.gmail-logo-icon1 {
+  position: absolute;
+  top: 1422px;
+  left: 992px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  display: none;
+}
+.gmail-logo-icon1 {
+  left: 1072px;
+}
+.gmail-logo-icon2 {
+  position: absolute;
+  top: 1382px;
+  left: 241px;
+  width: 164px;
+  height: 128px;
+  object-fit: cover;
+}
+.call1,
+.feane2 {
+  position: absolute;
+  top: 1144px;
+  left: 405px;
+}
+.feane2 {
+  top: 624px;
+  left: 3335px;
+  font-size: var(--font-size-109xl);
+}
+.necessary-making-this,
+.on-the-internet {
+  margin: 0;
+}
+.latin-words-combined {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.necessary-making-this-container {
+  position: absolute;
+  top: 821px;
+  left: 2357px;
+}
+.facebook-circled-icon,
+.linkedin-icon {
+  position: absolute;
+  top: 1260px;
+  left: 3062px;
+  width: 243px;
+  height: 190px;
+  object-fit: cover;
+}
+.linkedin-icon {
+  top: 1250px;
+  left: 3523px;
+  width: 178px;
+  height: 157px;
+}
+.instagram-icon,
+.pinterest-icon,
+.twitter-icon {
+  position: absolute;
+  top: 1280px;
+  left: 3335px;
+  width: 158px;
+  height: 144px;
+  object-fit: cover;
+}
+.instagram-icon,
+.pinterest-icon {
+  top: 1252px;
+  left: 3701px;
+  width: 200px;
+  height: 126px;
+}
+.pinterest-icon {
+  top: 1260px;
+  left: 3901px;
+  width: 205px;
+  height: 136px;
+}
+.opening-hours {
+  position: absolute;
+  top: 701px;
+  left: 5640px;
+  font-size: var(--font-size-109xl);
+}
+.everyday {
+  position: absolute;
+  top: 889px;
+  left: 5947px;
+}
+.am-1000-pm,
+.location-icon {
+  position: absolute;
+  top: 1136px;
+  left: 5767px;
+}
+.location-icon {
+  top: 893px;
+  left: 356px;
+  width: 97px;
+  height: 174px;
+  object-fit: cover;
+}
+.desktop-111 {
+  position: absolute;
+  top: 11013px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 7022px;
+  height: 2079px;
+  overflow: hidden;
+  font-size: var(--font-size-77xl);
+}
+.ellipse-icon,
+.rectangle-icon {
+  position: absolute;
+  top: 49px;
+  left: 3976px;
+  width: 2896px;
+  height: 1185px;
+}
+.ellipse-icon {
+  top: 259px;
+  left: 4156px;
+  border-radius: 50%;
+  width: 729px;
+  height: 611px;
+  object-fit: cover;
+}
+.div8,
+.off1,
+.pizza-days {
+  position: absolute;
+  left: 5251px;
+}
+.pizza-days {
+  top: 314px;
+  font-size: var(--font-size-77xl);
+}
+.div8,
+.off1 {
+  top: 451px;
+}
+.off1 {
+  top: 482px;
+  left: 5503px;
+  font-size: var(--font-size-77xl);
+}
+.desktop-2-child3 {
+  position: absolute;
+  top: 658px;
+  left: 5150px;
+  border-radius: var(--br-101xl);
+  background-color: var(--color-gold);
+  width: 833px;
+  height: 243px;
+}
+.oreder-now2 {
+  position: absolute;
+  top: 721px;
+  left: 5224px;
+  font-size: var(--font-size-77xl);
+  color: var(--color-snow-400);
+}
+.shopping-cart-icon12 {
+  position: absolute;
+  top: 717px;
+  left: 5818px;
+  width: 100px;
+  height: 120px;
+  object-fit: cover;
+}
+.delicious-pizza1 {
+  position: absolute;
+  top: 2089px;
+  left: 46px;
+}
+.cupiditate-quo-quisquam5,
+.veniam-debitis-quaerat5,
+.voluptatem-repellendus-sed5 {
+  margin: 0;
+}
+.veniam-debitis-quaerat-container2 {
+  position: absolute;
+  top: 2261px;
+  left: 46px;
+  font-size: var(--font-size-77xl);
+}
+.shopping-cart3 {
+  position: absolute;
+  top: 2758px;
+  left: 1158px;
+  width: 300px;
+  height: 200px;
+}
+.desktop-12-child,
+.desktop-12-item {
+  position: absolute;
+  top: 2655px;
+  left: 1068px;
+  border-radius: var(--br-231xl);
+  background-color: var(--color-gold);
+  width: 480px;
+  height: 405px;
+}
+.shopping-cart-icon13,
+.shopping-cart-icon14 {
+  position: absolute;
+  top: 2758px;
+  left: 1158px;
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+.desktop-12,
+.div9 {
+  position: absolute;
+  top: 2758px;
+  left: 153px;
+}
+.desktop-12 {
+  top: 2444px;
+  left: 4885px;
+  background-color: var(--color-black);
+  width: 1987px;
+  height: 3288px;
+  overflow: hidden;
+}
+.whatsapp-image-2024-02-22-at-14 {
+  position: absolute;
+  top: 2412px;
+  left: 4836px;
+  border-radius: 0 0 0 var(--br-281xl);
+  width: 2063px;
+  height: 1846px;
+  object-fit: cover;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 13092px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-109xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

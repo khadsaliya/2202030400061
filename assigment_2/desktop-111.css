@@ -1,0 +1,162 @@
+.contact-us2 {
+  position: absolute;
+  top: 670px;
+  left: 391px;
+  font-size: var(--font-size-109xl);
+}
+.location2,
+.phone-icon2 {
+  position: absolute;
+  top: 914px;
+  left: 535px;
+}
+.phone-icon2 {
+  top: 1123px;
+  left: 153px;
+  width: 340px;
+  height: 157px;
+  object-fit: cover;
+}
+.call3 {
+  position: absolute;
+  top: 1144px;
+  left: 458px;
+  display: none;
+}
+.demogmailcom2,
+.div13,
+.div14 {
+  position: absolute;
+  top: 1144px;
+  left: 612px;
+}
+.demogmailcom2,
+.div14 {
+  left: 841px;
+}
+.demogmailcom2 {
+  top: 1382px;
+  left: 436px;
+}
+.gmail-logo-icon4,
+.gmail-logo-icon5 {
+  position: absolute;
+  top: 1422px;
+  left: 992px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  display: none;
+}
+.gmail-logo-icon5 {
+  left: 1072px;
+}
+.gmail-logo-icon6 {
+  position: absolute;
+  top: 1382px;
+  left: 241px;
+  width: 164px;
+  height: 128px;
+  object-fit: cover;
+}
+.call4,
+.feane6 {
+  position: absolute;
+  top: 1144px;
+  left: 405px;
+}
+.feane6 {
+  top: 624px;
+  left: 3335px;
+  font-size: var(--font-size-109xl);
+}
+.necessary-making-this2,
+.on-the-internet2 {
+  margin: 0;
+}
+.latin-words-combined2 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.necessary-making-this-container2 {
+  position: absolute;
+  top: 821px;
+  left: 2357px;
+}
+.facebook-circled-icon2,
+.linkedin-icon2 {
+  position: absolute;
+  top: 1260px;
+  left: 3062px;
+  width: 243px;
+  height: 190px;
+  object-fit: cover;
+}
+.linkedin-icon2 {
+  top: 1267px;
+  left: 3523px;
+  width: 178px;
+  height: 157px;
+}
+.instagram-icon2,
+.pinterest-icon2,
+.twitter-icon2 {
+  position: absolute;
+  top: 1280px;
+  left: 3335px;
+  width: 158px;
+  height: 144px;
+  object-fit: cover;
+}
+.instagram-icon2,
+.pinterest-icon2 {
+  top: 1283px;
+  left: 3701px;
+  width: 200px;
+  height: 126px;
+}
+.pinterest-icon2 {
+  top: 1286.3px;
+  left: 3899.9px;
+  width: 207.2px;
+  height: 139.3px;
+  object-fit: contain;
+  display: none;
+}
+.opening-hours2 {
+  position: absolute;
+  top: 701px;
+  left: 5640px;
+  font-size: var(--font-size-109xl);
+  display: none;
+}
+.everyday2 {
+  position: absolute;
+  top: 889px;
+  left: 5947px;
+}
+.am-1000-pm2,
+.location-icon2 {
+  position: absolute;
+  top: 1136px;
+  left: 5767px;
+}
+.location-icon2 {
+  top: 890px;
+  left: 255px;
+  width: 300px;
+  height: 150px;
+  object-fit: cover;
+}
+.desktop-112 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-300);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 2079px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

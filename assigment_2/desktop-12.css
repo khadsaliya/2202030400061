@@ -1,0 +1,128 @@
+.book-a-table {
+  position: absolute;
+  top: 784px;
+  left: 225px;
+}
+.desktop-12-inner {
+  position: absolute;
+  top: 1282px;
+  left: 205px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  border: 20px solid var(--color-black);
+  box-sizing: border-box;
+  width: 4892px;
+  height: 861px;
+}
+.your-name {
+  position: absolute;
+  top: 1463px;
+  left: 457px;
+  display: inline-block;
+  width: 1585px;
+  height: 499px;
+}
+.desktop-12-child1 {
+  position: absolute;
+  top: 2391px;
+  left: 205px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  border: 20px solid var(--color-black);
+  box-sizing: border-box;
+  width: 4892px;
+  height: 861px;
+}
+.phone-number {
+  position: absolute;
+  top: 2626px;
+  left: 457px;
+}
+.desktop-12-child2 {
+  position: absolute;
+  top: 3422px;
+  left: 205px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  border: 20px solid var(--color-black);
+  box-sizing: border-box;
+  width: 4892px;
+  height: 861px;
+}
+.your-email {
+  position: absolute;
+  top: 3735px;
+  left: 457px;
+}
+.desktop-12-child3 {
+  position: absolute;
+  top: 4408px;
+  left: 205px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  border: 20px solid var(--color-black);
+  box-sizing: border-box;
+  width: 4892px;
+  height: 861px;
+}
+.div12,
+.how-many-persons {
+  position: absolute;
+  top: 4688px;
+  left: 3276px;
+}
+.how-many-persons {
+  left: 452px;
+}
+.desktop-12-child4 {
+  position: absolute;
+  top: 5476px;
+  left: 205px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  border: 20px solid var(--color-black);
+  box-sizing: border-box;
+  width: 4892px;
+  height: 861px;
+}
+.calendar-1-icon,
+.mmddyyy {
+  position: absolute;
+  top: 5752px;
+  left: 404px;
+}
+.calendar-1-icon {
+  top: 5643px;
+  left: 3943px;
+  width: 1500px;
+  height: 500px;
+  object-fit: cover;
+}
+.desktop-12-child5 {
+  position: absolute;
+  top: 6619px;
+  left: 672px;
+  border-radius: var(--br-381xl);
+  background-color: var(--color-gold);
+  width: 2604px;
+  height: 796px;
+}
+.book-now {
+  position: absolute;
+  top: 6756px;
+  left: 1134px;
+  font-size: var(--font-size-381xl);
+  color: #fefafa;
+}
+.desktop-121 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 7764px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-281xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}

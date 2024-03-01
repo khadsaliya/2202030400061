@@ -1,0 +1,9 @@
+.full-stop4 {
+  width: 100%;
+  position: relative;
+  height: 150px;
+  background-image: url(./public/full-stop1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

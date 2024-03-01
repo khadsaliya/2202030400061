@@ -1,0 +1,225 @@
+.hello {
+  white-space: pre-wrap;
+}
+.hello,
+.welcome-back {
+  margin: 0;
+}
+.hello-welcome-container {
+  position: absolute;
+  top: 3656px;
+  left: 14279px;
+  font-size: var(--font-size-681xl);
+  color: var(--color-white);
+}
+.french-fries-fast-food-menu-sy-icon {
+  position: absolute;
+  top: 596px;
+  left: 678px;
+  width: 2149px;
+  height: 2326px;
+  object-fit: cover;
+}
+.desktop-13-child {
+  position: absolute;
+  top: 6140px;
+  left: 14394px;
+  border-radius: var(--br-281xl);
+  width: 5592px;
+  height: 1108px;
+}
+.desktop-13-item,
+.enter-username {
+  position: absolute;
+  top: 6368px;
+  left: 14782px;
+}
+.desktop-13-item {
+  top: 8135px;
+  left: 14394px;
+  border-radius: var(--br-281xl);
+  background-color: var(--color-gainsboro);
+  width: 5592px;
+  height: 1108px;
+}
+.enter-password {
+  position: absolute;
+  top: 8363px;
+  left: 15160px;
+}
+.div15,
+.forgot-password1 {
+  position: absolute;
+  top: 9456px;
+}
+.forgot-password1 {
+  left: 15900px;
+  display: inline-block;
+  width: 3844px;
+  height: 521px;
+}
+.div15 {
+  left: 19744px;
+}
+.desktop-13-inner {
+  position: absolute;
+  top: 10768px;
+  left: 14279px;
+  border-radius: var(--br-281xl);
+  background-color: var(--color-gainsboro);
+  width: 5592px;
+  height: 1108px;
+}
+.sign-in {
+  position: absolute;
+  top: 10996px;
+  left: 16156px;
+  color: var(--color-black);
+}
+.desktop-13-child1 {
+  position: absolute;
+  top: 12505px;
+  left: 14520px;
+  border-top: 40px solid #fffcfc;
+  box-sizing: border-box;
+  width: 1400px;
+  height: 40px;
+}
+.or-contiue-with {
+  position: absolute;
+  top: 12317px;
+  left: 16069px;
+  font-size: var(--font-size-281xl);
+  color: var(--color-white);
+}
+.wrapper-line-3-child {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  transform: scale(1.026);
+}
+.wrapper-line-3 {
+  position: absolute;
+  top: 12505px;
+  left: 18575.5px;
+  width: 1515.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-13-child2,
+.desktop-13-child3,
+.desktop-13-child4 {
+  position: absolute;
+  top: 12897px;
+  left: 14540px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gainsboro);
+  width: 1148px;
+  height: 621px;
+}
+.desktop-13-child3,
+.desktop-13-child4 {
+  left: 16960px;
+}
+.desktop-13-child4 {
+  top: 12877px;
+  left: 18717px;
+}
+.dont-have-an {
+  position: absolute;
+  top: 14309px;
+  left: 13929px;
+  font-size: var(--font-size-331xl);
+  white-space: pre-wrap;
+}
+.div16 {
+  position: absolute;
+  top: 14262px;
+  left: 17763px;
+}
+.create-account,
+.sign-in1 {
+  position: absolute;
+  top: 14309px;
+  left: 18108px;
+  font-size: var(--font-size-331xl);
+  color: var(--color-white);
+}
+.sign-in1 {
+  top: 614px;
+  left: 18979px;
+}
+.desktop-13-child5 {
+  position: absolute;
+  top: 614px;
+  left: 20495px;
+  border-radius: var(--br-131xl);
+  background-color: var(--color-gainsboro);
+  width: 1437px;
+  height: 543px;
+}
+.register {
+  position: absolute;
+  top: 644px;
+  left: 20497px;
+  font-size: var(--font-size-331xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 1555px;
+  height: 645px;
+}
+.desktop-13-child6 {
+  position: absolute;
+  top: 1132px;
+  left: 19332px;
+  border-top: 50px solid var(--color-white);
+  box-sizing: border-box;
+  width: 434.5px;
+  height: 50px;
+}
+.apple-logo-icon,
+.facebook-icon,
+.google-logo-icon,
+.unsplashnq9klqttebq-icon {
+  position: absolute;
+  top: 12980px;
+  left: 14886px;
+  width: 456px;
+  height: 456px;
+  object-fit: cover;
+}
+.apple-logo-icon,
+.facebook-icon,
+.unsplashnq9klqttebq-icon {
+  top: 12960px;
+  left: 17366px;
+}
+.apple-logo-icon,
+.unsplashnq9klqttebq-icon {
+  left: 19123px;
+  width: 337px;
+  height: 380px;
+}
+.unsplashnq9klqttebq-icon {
+  top: 4503px;
+  left: 1752px;
+  width: 9130px;
+  height: 8371px;
+}
+.desktop-131 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 15853px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-481xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-inika);
+}

@@ -1,0 +1,11 @@
+.eye {
+  width: 100%;
+  position: relative;
+  height: 1129.8px;
+  transform: rotate(-0.47deg);
+  transform-origin: 0 0;
+  background-image: url(./public/eye1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

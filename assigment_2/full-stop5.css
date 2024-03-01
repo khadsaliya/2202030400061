@@ -1,0 +1,9 @@
+.full-stop5 {
+  width: 100%;
+  position: relative;
+  height: 60px;
+  background-image: url(./public/full-stop2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

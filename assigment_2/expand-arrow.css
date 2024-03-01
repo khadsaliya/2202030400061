@@ -1,0 +1,9 @@
+.expand-arrow {
+  width: 100%;
+  position: relative;
+  height: 60px;
+  background-image: url(./public/expand-arrow@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

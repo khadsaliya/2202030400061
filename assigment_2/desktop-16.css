@@ -1,0 +1,189 @@
+.french-fries-fast-food-menu-sy-icon2 {
+  position: absolute;
+  top: 704px;
+  left: 704px;
+  width: 3476px;
+  height: 3746px;
+  object-fit: cover;
+}
+.back-icon,
+.back-icon1,
+.back-icon2,
+.back-icon3,
+.back-icon4,
+.forward-icon {
+  position: absolute;
+  top: 8596px;
+  left: 9378px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.back-icon1,
+.back-icon2,
+.back-icon3,
+.back-icon4,
+.forward-icon {
+  left: 9458px;
+}
+.back-icon2,
+.back-icon3,
+.back-icon4,
+.forward-icon {
+  left: 9538px;
+}
+.back-icon3,
+.back-icon4,
+.forward-icon {
+  left: 9618px;
+}
+.back-icon4,
+.forward-icon {
+  left: 9698px;
+}
+.forward-icon {
+  left: 9778px;
+}
+.back-to-login {
+  position: absolute;
+  top: 5435px;
+  left: 1735px;
+  font-size: var(--font-size-381xl);
+}
+.forgot-your-password {
+  position: absolute;
+  top: 6941px;
+  left: 2050px;
+  white-space: pre-wrap;
+}
+.dont-worry-happ,
+.end,
+.to-all-of {
+  position: absolute;
+  top: 7835px;
+  left: 2050px;
+}
+.end,
+.to-all-of {
+  left: 5974px;
+}
+.to-all-of {
+  left: 7004px;
+}
+.enter-your-email,
+.p {
+  margin: 0;
+}
+.enter-your-email-container {
+  position: absolute;
+  top: 7835px;
+  left: 9378px;
+}
+.reciver-your-password,
+.text2 {
+  position: absolute;
+  top: 8487px;
+  left: 2050px;
+}
+.text2 {
+  top: 12155px;
+  left: 17932px;
+}
+.desktop-16-child,
+.desktop-16-item {
+  position: absolute;
+  top: 7947px;
+  left: 4431px;
+  background-color: var(--color-gainsboro);
+  width: 100px;
+  height: 100px;
+}
+.desktop-16-item {
+  top: 10034px;
+  left: 1973px;
+  border-radius: var(--br-181xl);
+  width: 8002px;
+  height: 1129px;
+}
+.enter-your-email1 {
+  position: absolute;
+  top: 10273px;
+  left: 2592px;
+  color: var(--color-dimgray);
+}
+.email2 {
+  position: absolute;
+  top: 9382px;
+  left: 2050px;
+}
+.desktop-16-inner {
+  position: absolute;
+  top: 11712px;
+  left: 1973px;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-mediumblue);
+  width: 8002px;
+  height: 1129px;
+}
+.or-login-with,
+.submit {
+  position: absolute;
+  top: 11978px;
+  left: 4531px;
+}
+.or-login-with {
+  top: 13830px;
+  left: 3690px;
+  font-size: var(--font-size-681xl);
+}
+.desktop-16-child1,
+.desktop-16-child2,
+.desktop-16-child3 {
+  position: absolute;
+  top: 14985px;
+  left: 1973px;
+  background-color: var(--color-gainsboro);
+  width: 2226px;
+  height: 1180px;
+}
+.desktop-16-child2,
+.desktop-16-child3 {
+  left: 5646px;
+}
+.desktop-16-child3 {
+  left: 9319px;
+}
+.apple-logo-icon1,
+.facebook-icon1,
+.google-logo-icon1 {
+  position: absolute;
+  top: 15186px;
+  left: 2655px;
+  width: 727px;
+  height: 777px;
+  object-fit: cover;
+}
+.apple-logo-icon1,
+.facebook-icon1 {
+  left: 6320px;
+  width: 684px;
+  height: 752px;
+}
+.apple-logo-icon1 {
+  top: 15167px;
+  left: 9993px;
+  width: 592px;
+  height: 771px;
+}
+.desktop-16 {
+  width: 100%;
+  position: relative;
+  background-color: #0e0d0d;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 17251px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-481xl);
+  color: var(--color-white);
+  font-family: var(--font-inika);
+}

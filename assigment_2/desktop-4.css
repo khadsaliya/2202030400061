@@ -1,0 +1,80 @@
+.feane5 {
+  position: absolute;
+  top: 267px;
+  left: 274px;
+  font-size: 170px;
+  color: var(--color-whitesmoke);
+}
+.about3,
+.bookable3,
+.home3 {
+  position: absolute;
+  top: 309px;
+}
+.home3 {
+  left: 1341px;
+  color: var(--color-snow-200);
+  display: inline-block;
+  width: 459px;
+  height: 108px;
+}
+.about3,
+.bookable3 {
+  left: 2806px;
+}
+.bookable3 {
+  top: 314px;
+  left: 3613px;
+  color: var(--color-gold);
+}
+.menu3 {
+  position: absolute;
+  top: 309px;
+  left: 2137px;
+}
+.customer-icon2,
+.search-icon2,
+.shopping-cart-icon16 {
+  position: absolute;
+  top: 245px;
+  left: 4613px;
+  width: 500px;
+  height: 250px;
+  object-fit: cover;
+}
+.search-icon2,
+.shopping-cart-icon16 {
+  left: 5034px;
+}
+.search-icon2 {
+  left: 5534px;
+}
+.desktop-4-child {
+  position: absolute;
+  top: 88px;
+  left: 6218px;
+  border-radius: var(--br-281xl);
+  background-color: var(--color-gold);
+  width: 1500px;
+  height: 500px;
+}
+.order-online3 {
+  position: absolute;
+  top: 188px;
+  left: 6371px;
+  font-size: var(--font-size-181xl);
+  font-family: var(--font-inter);
+  color: var(--color-snow-300);
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-400);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 822px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-109xl);
+  color: var(--color-snow-100);
+  font-family: var(--font-inika);
+}

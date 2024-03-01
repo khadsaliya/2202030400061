@@ -1,0 +1,11 @@
+.customer {
+  width: 100%;
+  position: relative;
+  height: 367px;
+  transform: rotate(0.63deg);
+  transform-origin: 0 0;
+  background-image: url(./public/customer1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

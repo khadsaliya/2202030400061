@@ -1,0 +1,10 @@
+.aboutabouts {
+  width: 12px;
+  position: relative;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-inika);
+  color: var(--color-black);
+  text-align: left;
+  display: none;
+  height: 7px;
+}

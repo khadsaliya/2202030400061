@@ -1,0 +1,230 @@
+.french-fries-fast-food-menu-sy-icon1 {
+  position: absolute;
+  top: 782px;
+  left: 519px;
+  width: 3476px;
+  height: 3746px;
+  object-fit: cover;
+}
+.desktop-14-child {
+  position: absolute;
+  top: 502px;
+  left: 8398px;
+  border-radius: 900px;
+  background-color: var(--color-gainsboro);
+  width: 4633px;
+  height: 1314px;
+}
+.register1 {
+  position: absolute;
+  top: 782px;
+  left: 9593px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 4697px;
+  height: 1497px;
+}
+.desktop-14-item {
+  position: absolute;
+  top: 3478px;
+  left: 6264px;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-gainsboro);
+  width: 7669px;
+  height: 1217px;
+}
+.full-name {
+  position: absolute;
+  top: 2636px;
+  left: 6880px;
+}
+.desktop-14-inner {
+  position: absolute;
+  top: 5500px;
+  left: 6264px;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-gainsboro);
+  width: 7669px;
+  height: 1217px;
+}
+.phone-number1 {
+  position: absolute;
+  top: 4824px;
+  left: 6621px;
+}
+.desktop-14-child1,
+.desktop-14-child2 {
+  position: absolute;
+  top: 7961px;
+  left: 6264px;
+  border-radius: var(--br-181xl);
+  width: 7669px;
+  height: 1217px;
+}
+.desktop-14-child2 {
+  top: 10201px;
+  background-color: var(--color-gainsboro);
+}
+.password1 {
+  position: absolute;
+  top: 9368px;
+  left: 6621px;
+}
+.desktop-14-child3 {
+  position: absolute;
+  top: 12317px;
+  left: 6264px;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-gainsboro);
+  width: 7669px;
+  height: 1217px;
+}
+.enter-full-name,
+.enter-phone-number {
+  position: absolute;
+  top: 3584px;
+  left: 7034px;
+  color: var(--color-gray-200);
+}
+.enter-phone-number {
+  top: 5833px;
+  left: 6742px;
+}
+.email1 {
+  position: absolute;
+  top: 7013px;
+  left: 6621px;
+}
+.enter-email,
+.enter-password1 {
+  position: absolute;
+  top: 8244px;
+  left: 6742px;
+  color: var(--color-gray-200);
+  white-space: pre-wrap;
+}
+.enter-password1 {
+  top: 10484px;
+  left: 6621px;
+}
+.confirm-password1,
+.confirm-your-password {
+  position: absolute;
+  top: 11547px;
+  left: 6621px;
+}
+.confirm-your-password {
+  top: 12600px;
+  color: var(--color-gray-200);
+  white-space: pre-wrap;
+}
+.gender {
+  position: absolute;
+  top: 13891px;
+  left: 6298px;
+}
+.full-stop-icon,
+.full-stop-icon1 {
+  position: absolute;
+  top: 8762px;
+  left: 12994px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.full-stop-icon2,
+.male {
+  position: absolute;
+  top: 14661px;
+}
+.male {
+  left: 6742px;
+  font-size: var(--font-size-281xl);
+}
+.full-stop-icon2 {
+  left: 7600px;
+  width: 567px;
+  height: 448px;
+  object-fit: cover;
+}
+.female {
+  position: absolute;
+  top: 14689px;
+  left: 8076px;
+  font-size: var(--font-size-281xl);
+}
+.full-stop-icon3 {
+  position: absolute;
+  top: 14661px;
+  left: 9230px;
+  width: 567px;
+  height: 448px;
+  object-fit: cover;
+}
+.other {
+  position: absolute;
+  top: 14689px;
+  left: 9797px;
+  font-size: var(--font-size-281xl);
+}
+.terms {
+  color: #bc842f;
+}
+.privacy-policies {
+  color: #c08021;
+}
+.i-agree-to-container {
+  position: absolute;
+  top: 15185px;
+  left: 6671px;
+  font-size: var(--font-size-281xl);
+}
+.desktop-14-child4 {
+  position: absolute;
+  top: 15694px;
+  left: 6264px;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-gainsboro);
+  width: 7669px;
+  height: 1217px;
+}
+.register2 {
+  position: absolute;
+  top: 16040px;
+  left: 8572px;
+  color: var(--color-black);
+}
+.div17 {
+  position: absolute;
+  top: 17053px;
+  left: 11776px;
+  font-size: var(--font-size-281xl);
+  display: inline-block;
+  width: 214px;
+  height: 390px;
+}
+.already-have-an1,
+.log-in {
+  position: absolute;
+  top: 16987px;
+  left: 6905px;
+  font-size: var(--font-size-381xl);
+}
+.log-in {
+  top: 17052px;
+  left: 12079px;
+  font-size: var(--font-size-281xl);
+  color: #136abb;
+}
+.desktop-14 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 18010px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-481xl);
+  color: var(--color-white);
+  font-family: var(--font-inika);
+}
